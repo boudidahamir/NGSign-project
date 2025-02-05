@@ -16,6 +16,6 @@ Username: sa
 Password: (vide)
 
 pour le frontend : 
-cmd -> cd ngsign-frontend -> npm install (optional) -> ng serve --open
+cmd -> cd frontend -> npm install (optional) -> ng serve --open
 
 s'ouvre http://localhost:4200
